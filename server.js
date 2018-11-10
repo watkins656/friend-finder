@@ -6,7 +6,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // Define a port to listen for incoming requests
-var PORT = 8080;
+var PORT = process.env.PORT || 7080;
 
 require("./app/routing/apiRoutes")(app);
 require('./app/routing/htmlRoutes')(app);
