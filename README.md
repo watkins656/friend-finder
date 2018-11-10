@@ -3,7 +3,7 @@
 
 ## Synopsis
 
-* [Video Walkthrough](https://drive.google.com/file/d/1Hd5DhCQRMk4QLomWe6hUPpcrGxyMWQRe/view)
+* [Video Walkthrough](https://drive.google.com/file/d/1qbco6ZBEwj8b0XVZCNsyPdj8p2xGO4bS/view)
 
 ![FRIEND-FINDER](./app/assets/img/Capture.PNG)
 
